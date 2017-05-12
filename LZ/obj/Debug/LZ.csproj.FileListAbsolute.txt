@@ -1,0 +1,9 @@
+D:\Универ\LZ\LZ\bin\Debug\LZ.exe.config
+D:\Универ\LZ\LZ\bin\Debug\LZ.exe
+D:\Универ\LZ\LZ\bin\Debug\LZ.pdb
+D:\Универ\LZ\LZ\obj\Debug\LZ.csprojResolveAssemblyReference.cache
+D:\Универ\LZ\LZ\obj\Debug\LZ.Form1.resources
+D:\Универ\LZ\LZ\obj\Debug\LZ.Properties.Resources.resources
+D:\Универ\LZ\LZ\obj\Debug\LZ.csproj.GenerateResource.Cache
+D:\Универ\LZ\LZ\obj\Debug\LZ.exe
+D:\Универ\LZ\LZ\obj\Debug\LZ.pdb

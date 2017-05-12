@@ -1,0 +1,8 @@
+D:\Универ\LZ\LZ\bin\Release\LZ.exe.config
+D:\Универ\LZ\LZ\bin\Release\LZ.exe
+D:\Универ\LZ\LZ\bin\Release\LZ.pdb
+D:\Универ\LZ\LZ\obj\Release\LZ.Form1.resources
+D:\Универ\LZ\LZ\obj\Release\LZ.Properties.Resources.resources
+D:\Универ\LZ\LZ\obj\Release\LZ.csproj.GenerateResource.Cache
+D:\Универ\LZ\LZ\obj\Release\LZ.exe
+D:\Универ\LZ\LZ\obj\Release\LZ.pdb
